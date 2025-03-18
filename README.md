@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Gabriel Karachira
+- 👋 Hi, I’m Gabriel 
 - 👀 I’m interested in Finance and Tech
 - 🌱 I’m currently learning Management
-- 📫 How to reach me (linkedin - Gabriel Karachira)
 
 <!---
 ghghghjkzo/ghghghjkzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
